@@ -6,7 +6,7 @@ setup(
     version='0.0.1',
     packages=find_packages(),
     license='MIT',
-    description='A package for multiplication functions',
+    description='A package for operations functions',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='AkhilKumarGolla',
